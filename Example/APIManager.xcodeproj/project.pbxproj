@@ -26,6 +26,7 @@
 		5004CAF61A833DD60017AC42 /* ApiKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ApiKeys.h; sourceTree = "<group>"; };
 		5004CAF71A833DD60017AC42 /* APIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APIManager.h; sourceTree = "<group>"; };
 		5004CAF81A833DD60017AC42 /* APIManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APIManager.m; sourceTree = "<group>"; };
+		5004CAFC1A8342870017AC42 /* PublicHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PublicHeader.h; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* APIManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APIManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -59,6 +60,7 @@
 		5004CAF31A833DD60017AC42 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				5004CAFC1A8342870017AC42 /* PublicHeader.h */,
 				5004CAF41A833DD60017AC42 /* APIBase.h */,
 				5004CAF51A833DD60017AC42 /* APIBase.m */,
 				5004CAF61A833DD60017AC42 /* ApiKeys.h */,

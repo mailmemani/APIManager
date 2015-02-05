@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
     'APIManager' => ['Pod/Assets/*.png']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'AFNetworking', '~> 2.4'
   s.dependency 'XMLDictionary', '~> 1.4'

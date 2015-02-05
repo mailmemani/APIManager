@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'APIManager', :exclusive => true do
+  pod "APIManager", :path => "../"
+
+  
+end
